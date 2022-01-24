@@ -1,6 +1,6 @@
 var timeDate = $('#time-date');
 var timeNow = moment().startOf('hour');
-//var whatHour = $('hour');
+
 
 
 //function for displaying date
@@ -45,10 +45,6 @@ $('tbody tr').each(function () {
     });
 
 });
-
-
-
-
 
 
 setInterval(showTime, 1000);
