@@ -1,6 +1,6 @@
 # Organize-Your-Work-Day
 
-This is a simple calendar application where a user can save events for each hour of the day.
+This is a simple calendar application where a user can save events for each hour of the work day.
 
 Features of this application:
 The current date is displayed at the top of the page.
