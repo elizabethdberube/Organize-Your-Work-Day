@@ -1,3 +1,4 @@
+//variables
 var timeDate = $('#time-date');
 var timeNow = moment().startOf('hour');
 
@@ -10,7 +11,7 @@ function showTime() {
 
 }
 
-//function for saving events 
+//function for-each loop for saving events 
 $('tbody tr').each(function () {
 
     var tr = $(this);
