@@ -4,7 +4,7 @@ var timeNow = moment().startOf('hour');
 
 
 
-//function for displaying date
+//function for displaying the date
 function showTime() {
     var whatTime = moment().format('dddd, MMMM Do, YYYY');
     timeDate.text(whatTime);
